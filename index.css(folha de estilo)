@@ -1,0 +1,60 @@
+body {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100px;
+    background-color: black;
+    overflow: hidden;
+}
+
+h1 {
+ color: green;
+ margin: 0;
+ margin-left: 20px;
+ width: 50%;
+ height: 50%;
+
+}
+
+
+header {
+    background-color: black;
+    padding: 5px 0;
+    height: 70%;
+    width: 1200px;
+}
+
+Image {
+    position:relative;
+    width: 1280px;
+
+}
+
+image {
+    width: 100%;
+}
+
+.texto {
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(252, 252, 252, 0);
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: large;
+}
+
+.texto2 {
+   position: absolute;
+    top: 40%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(252, 251, 251, 0);
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: large;
+}
